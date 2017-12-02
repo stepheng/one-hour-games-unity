@@ -5,7 +5,10 @@
 **/[Bb]uilds/
 **/Assets/AssetStoreTools*
 **/Assets/StoreAssets
+**/Assets/AssetStore
+**/Assets/ProCore
 **/Assets/Standard Assets
+**/Assets/Scene/LightingData*
 
 # Visual Studio 2015 cache directory
 /.vs/
